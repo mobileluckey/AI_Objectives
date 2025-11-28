@@ -1,0 +1,38 @@
+AI Text Analysis Report for: my_text_file.txt
+============================================================
+
+--- Basic Counts ---
+Sentence Count: 16
+Word Count: 426
+Average Sentence Length (words): 26.62
+Shortest Sentence (words): 1
+Longest Sentence (words): 57
+Average Word Length (characters): 5.72
+
+--- Top 20 Most Common Words ---
+and             18
+a               16
+to              11
+of              8
+robot           7
+interaction     6
+humanoid        5
+the             5
+that            5
+high            5
+as              5
+for             5
+project         4
+capable         4
+its             4
+user            4
+is              4
+design          3
+education       3
+in              3
+
+--- Overused Words ---
+robot           7
+interaction     6
+humanoid        5
+high            5

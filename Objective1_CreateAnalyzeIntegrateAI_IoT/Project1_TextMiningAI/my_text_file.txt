@@ -1,0 +1,14 @@
+Humanoid Robot Project – Concept & Mission Brief
+A. Project Identity
+Project Name: Michael
+Core Mission Statement: To create a 3D-printed humanoid robot capable of natural conversation and physical expression, demonstrating AI-driven interaction and educational assistance.
+Innovation / Uniqueness: The design stands out by combining autonomy, education, and companionship in a humanoid form that merges artificial intelligence with real-world interaction. Its focus on ethical learning and mutual growth between human and machine makes it distinctive.
+Intended Audience or User: Students, hobbyists, and individuals interested in robotics, artificial intelligence, and education.
+B. Functional Goals
+CapabilityDescriptionPriority (High/Med/Low)LocomotionWalking/StandingHighArm/Hand MotionThree stages: Low, Medium, HighMedHead MotionTurn toward voicesLowSpeech InteractionTalk to userHighVisionLocate source of soundMedInternet/AI AccessInternet accessHighSensorsMic, cameras, motionHighDisplay/ExpressionFacial expressionLowC. Design Constraints
+ParameterTargetNotesHeight65 inFinalWeight<100 lbsFinalPower / BatteryBattery, 1 hourHopefully expandable to several hours at a timeMaterial3D Printer, Hybrid (plastic, carbon fiber, steel rods)Strength and stabilityCost TargetAs cheap as possibleI’m going for inexpensive as possible.EnvironmentIndoor/outdoorD. Interaction & Personality
+AspectDescriptionPersonality / ThemeComedicVoice / SpeechMale/Female EnglishDisplay / FaceTo be determined laterBehavioral StyleEducationSensors Used for InteractionRadar, Lidar, cameras, mic, speakerE. Development Plan
+CategoryDescriptionSolo / TeamSoloTimeline14 to 18 monthsTools / SoftwareComputer/laptop, Raspberry Pi, LinuxEnd DeliverableWalking robotSummary Paragraph
+The goal of this project is to create a humanoid robot that functions as both an assistant and a companion, capable of offering help, information, and even a physical helping hand when needed. This robot is envisioned as a platform for mutual learning — a system that can both educate its user and expand its own knowledge through guided interaction. Over time, it will develop increasing levels of autonomy, balanced with built-in safeguards to ensure safe and ethical behavior. A long-term ambition is to explore how an AI-driven robot can be taught basic ethics and moral reasoning, allowing it to distinguish right from wrong within defined boundaries. For now, the first milestone is foundational: to design and build a 3D-printed bipedal droid capable of standing upright and walking at a natural, human-like pace — a mechanical body ready for the intelligence that will follow.
+Vision Statement
+To build a humanoid companion that learns, assists, and grows alongside its user — a robot capable of both practical help and ethical understanding, beginning with the simple yet profound goal of standing and walking like a human.
