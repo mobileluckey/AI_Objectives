@@ -1,0 +1,28 @@
+Smart Temperature Alert System (AI + IoT Project)
+
+This project demonstrates how to integrate IoT sensor data, cloud messaging, and simple AI-style analysis.
+I created a virtual smart temperature monitoring system using Tinkercad Circuits, Python, and HiveMQ Cloud.
+The system publishes real-time temperature readings to the cloud and uses a subscriber program to analyze the
+data and classify the temperature conditions.
+
+Project Overview
+
+This project simulates an IoT temperature monitoring device and an AI-driven alert system:
+
+Tinkercad Circuit
+Arduino Uno + TMP36 sensor + LEDs
+LEDs show local status: Normal / Warm / Hot.
+
+MQTT Cloud Pipeline
+A Python script publishes simulated temperature readings to a secure MQTT broker hosted on HiveMQ Cloud.
+
+AI Subscriber
+A second Python script subscribes to the MQTT topic, stores a rolling history of readings, calculates a moving average, and classifies the environment into:
+
+NORMAL
+
+WARM
+
+ALERT (Too Hot)
+
+This demonstrates sensor integration, cloud communication, data processing, and real-time decision-making.
