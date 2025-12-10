@@ -1,0 +1,35 @@
+Category,Metric,Value
+Basic Stats,Sentence Count,16
+Basic Stats,Word Count,426
+Basic Stats,Average Sentence Length (words),26.62
+Basic Stats,Shortest Sentence (words),1
+Basic Stats,Longest Sentence (words),57
+Basic Stats,Average Word Length (characters),5.72
+,,
+Category,Word,Count
+Top 20 Words,and,18
+Top 20 Words,a,16
+Top 20 Words,to,11
+Top 20 Words,of,8
+Top 20 Words,robot,7
+Top 20 Words,interaction,6
+Top 20 Words,humanoid,5
+Top 20 Words,the,5
+Top 20 Words,that,5
+Top 20 Words,high,5
+Top 20 Words,as,5
+Top 20 Words,for,5
+Top 20 Words,project,4
+Top 20 Words,capable,4
+Top 20 Words,its,4
+Top 20 Words,user,4
+Top 20 Words,is,4
+Top 20 Words,design,3
+Top 20 Words,education,3
+Top 20 Words,in,3
+,,
+Category,Word,Count
+Overused Words,robot,7
+Overused Words,interaction,6
+Overused Words,humanoid,5
+Overused Words,high,5
