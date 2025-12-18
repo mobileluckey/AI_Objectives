@@ -1,0 +1,20 @@
+{
+  "model": "LogisticRegression (Pipeline with preprocessing)",
+  "accuracy": 0.6466666666666666,
+  "f1": 0.7005649717514124,
+  "roc_auc": 0.6779356230893724,
+  "train_rows": 450,
+  "test_rows": 150,
+  "features": {
+    "categorical": [
+      "user_id",
+      "word"
+    ],
+    "numeric": [
+      "attempts_total",
+      "correct_rate",
+      "days_since_last_seen",
+      "current_streak"
+    ]
+  }
+}

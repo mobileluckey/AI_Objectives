@@ -1,0 +1,7 @@
+project_type,hours,tools_count,wood_type,used_finish,on_time
+furniture,12,6,oak,yes,1
+decor,3,2,pine,no,1
+furniture,18,7,walnut,yes,0
+repair,5,3,pine,no,1
+decor,8,4,cedar,yes,1
+repair,9,5,oak,no,0

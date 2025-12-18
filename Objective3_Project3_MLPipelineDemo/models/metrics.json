@@ -1,0 +1,16 @@
+{
+  "model": "GradientBoostingClassifier (full Pipeline)",
+  "accuracy": 0.5,
+  "f1": 0.6666666666666666,
+  "train_rows": 4,
+  "test_rows": 2,
+  "categorical_features": [
+    "project_type",
+    "wood_type",
+    "used_finish"
+  ],
+  "numeric_features": [
+    "hours",
+    "tools_count"
+  ]
+}

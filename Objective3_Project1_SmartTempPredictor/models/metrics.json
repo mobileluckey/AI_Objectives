@@ -1,0 +1,22 @@
+{
+  "model": "RandomForestRegressor",
+  "mae": 0.1156619285120537,
+  "rmse": 0.1471520504034282,
+  "train_rows": 1603,
+  "test_rows": 401,
+  "features": [
+    "hour",
+    "dayofweek",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_6",
+    "lag_12",
+    "roll_mean_3",
+    "roll_std_3",
+    "roll_mean_6",
+    "roll_std_6",
+    "roll_mean_12",
+    "roll_std_12"
+  ]
+}
