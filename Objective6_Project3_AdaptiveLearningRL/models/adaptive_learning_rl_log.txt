@@ -1,0 +1,29 @@
+======================================================================
+Objective 6 – Project 3: Adaptive Learning RL (Q-Learning Tutor)
+======================================================================
+Training metrics: {'episodes': 4000, 'max_steps': 25, 'avg_reward_last_200': 9.3075, 'min_reward_last_200': 2.0999999999999996, 'max_reward_last_200': 17.0}
+
+=== LEARNED POLICY TABLE ===
+skill 0: best=EASY | EASY=+7.21, MEDIUM=+6.07, HARD=+5.36
+skill 1: best=MEDIUM | EASY=+5.22, MEDIUM=+6.36, HARD=+5.32
+skill 2: best=HARD | EASY=+3.66, MEDIUM=+4.29, HARD=+5.08
+skill 3: best=HARD | EASY=+1.32, MEDIUM=+2.24, HARD=+2.29
+skill 4: best=EASY | EASY=+0.00, MEDIUM=+0.00, HARD=+0.00
+
+=== DEMO RUN (greedy learned policy) ===
+step 00 | skill=0 | pick=  EASY | reward=+0.40 | next_skill=0
+step 01 | skill=0 | pick=  EASY | reward=+1.40 | next_skill=1
+step 02 | skill=1 | pick=MEDIUM | reward=+0.70 | next_skill=1
+step 03 | skill=1 | pick=MEDIUM | reward=+0.70 | next_skill=1
+step 04 | skill=1 | pick=MEDIUM | reward=+0.70 | next_skill=1
+step 05 | skill=1 | pick=MEDIUM | reward=+1.70 | next_skill=2
+step 06 | skill=2 | pick=  HARD | reward=+2.00 | next_skill=3
+step 07 | skill=3 | pick=  HARD | reward=+1.00 | next_skill=3
+step 08 | skill=3 | pick=  HARD | reward=-0.60 | next_skill=3
+step 09 | skill=3 | pick=  HARD | reward=+1.00 | next_skill=3
+step 10 | skill=3 | pick=  HARD | reward=-0.60 | next_skill=3
+step 11 | skill=3 | pick=  HARD | reward=+2.00 | next_skill=4
+DONE: student reached skill level 4 ✅
+
+Saved proof log to: C:\Users\mobil\Documents\GitHub\AI_Objectives\Objective6_Project3_AdaptiveLearningRL\models\adaptive_learning_rl_log.txt
+Done.

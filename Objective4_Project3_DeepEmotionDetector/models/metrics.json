@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.08333333333333333,
+  "f1_weighted": 0.04545454545454545,
+  "classes": [
+    "angry",
+    "happy",
+    "neutral",
+    "sad"
+  ]
+}

@@ -1,0 +1,11 @@
+
+---
+
+## Objective 4 – Project 3: Deep Emotion Detector (New #9)
+
+
+```text
+numpy
+pandas
+tensorflow
+scikit-learn

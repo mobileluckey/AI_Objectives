@@ -1,0 +1,12 @@
+{
+  "model": "RandomForestClassifier",
+  "test_accuracy": 0.958041958041958,
+  "rows_total": 569,
+  "train_rows": 426,
+  "test_rows": 143,
+  "explainability_method": "permutation_importance",
+  "saved_files": {
+    "plot_png": "models/feature_importance_top10.png",
+    "top10_csv": "models/feature_importance_top10.csv"
+  }
+}
